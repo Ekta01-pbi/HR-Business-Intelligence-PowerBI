@@ -25,7 +25,7 @@ HR Analytics
 Business Intelligence Reporting
 
 ## Dashboard
-<img width="1500" height="551" alt="Store Dashboard" src="https://github.com/Born01toshine/Blinkit_Sales_Analysis/blob/main/Sales%20Analysis.png" />
+<img width="1500" height="551" alt="Store Dashboard" src="{https://github.com/Ekta01-pbi/HR-Business-Intelligence-PowerBI/blob/9e95fbad02cab98d04977bf5259cf1fa951aa48e/HR%20ANALYTICS%20DASHBOARD.pdf}"/>
 
  
 ## 🙋‍♀️ About Me
