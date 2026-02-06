@@ -24,4 +24,12 @@ Data Visualization
 HR Analytics
 Business Intelligence Reporting
 
+## Dashboard
+<img width="1500" height="551" alt="Store Dashboard" src="https://github.com/Born01toshine/Blinkit_Sales_Analysis/blob/main/Sales%20Analysis.png" />
+
  
+## 🙋‍♀️ About Me
+
+Hi, I'm Ekta — a data storyteller and analytics strategist. I specialize in building actionable dashboards that drive business clarity and decision-making. This project reflects my passion for turning raw data into powerful insights.
+
+📌 [Connect with me on LinkedIn](https://www.linkedin.com/in/ekta-mishra-b293b721a/)  
