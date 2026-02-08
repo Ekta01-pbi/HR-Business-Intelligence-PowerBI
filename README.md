@@ -51,7 +51,7 @@ Insights help HR teams optimize compensation, role planning, and retention polic
  
 
 ## Dashboard
-<img width="1500" height="551" alt="Store Dashboard" src="{https://github.com/Ekta01-pbi/HR-Business-Intelligence-PowerBI/blob/9e95fbad02cab98d04977bf5259cf1fa951aa48e/HR%20ANALYTICS%20DASHBOARD.pdf}"/>
+<img width="1500" height="551" alt="Store Dashboard" src="(https://github.com/Ekta01-pbi/HR-Business-Intelligence-PowerBI/blob/main/HR%20ANALYTICS%20DASHBOARD.pdf)"/>
 
  
 ## 🙋‍♀️ About Me
